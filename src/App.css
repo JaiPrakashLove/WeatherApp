@@ -1,0 +1,29 @@
+.wetherBg {
+  background: url("https://res.cloudinary.com/dtpgi0zck/image/upload/s--JQWZZPHk--/c_fit,h_580,w_860/v1/EducationHub/photos/lightning-bolts.jpg");
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading {
+  color: white;
+  font-weight: 700;
+}
+.wetherResultBox {
+  margin: auto;
+  width: 600px;
+  height: 22px;
+}
+.weathorIcon {
+  margin-bottom: 2rem;
+  width: 120px;
+  height: 100px;
+}
+.weathorCity {
+  font-size: 35px;
+}
+.weathorTemp {
+  font-size: 55px;
+  font-weight: 700;
+}
